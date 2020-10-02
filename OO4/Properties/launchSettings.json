@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "FanOutPut",
+      "launchUrl": "FanOutput",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
